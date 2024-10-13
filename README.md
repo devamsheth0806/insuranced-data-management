@@ -1,4 +1,4 @@
-# insuranced-data-management
+# Insurance Data Storage Management
 This is a C++ file and still in development.
 
 In this project, I have implemented B+ trees and added queues to nodes of the tree. Each node of the B+tree represents the client who registered insurance and queue represents the list of policies of corresponding client.  A user can register, view, delete and modify client details and his policies.
